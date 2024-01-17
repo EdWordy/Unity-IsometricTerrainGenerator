@@ -1,7 +1,7 @@
-## ISOMETRIC TERRAIN GENERATOR
+## ISOMETRIC TERRAIN GENERATOR for UNITY
 
 Quick setup
-1. Place the EasyWorld in your scene.
+1. Place the EasyWorld prefan in your scene.
 2. Adjust parameters
 3. Done!
 
